@@ -29,5 +29,5 @@ Throughout this project, we've gained valuable experience and skills, including:
 
 
 ## Contact
-For inquiries and collaborations, feel free to reach out to [sdeminhaj@gmail.com](mailto:sdeminhaj@gmail.com).
+For inquiries and collaborations, feel free to reach out to [sharandeepsinghsonu@gmail.com](mailto:sharandeepsinghsonu@gmail.com).
 
